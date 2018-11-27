@@ -12,7 +12,7 @@ load.catches <- function(fn){
                         TOTAL = catches$TOTAL,
                         TAC = catches$TAC,
                         TACCAN = catches$TACCAN,
-                        TACUSA = catches$TACUSA))
+                        TACUSA = catches$TACUSAZZZ))
 
   landings.vs.tac <-
     as.data.frame(cbind(landings.vs.tac,
