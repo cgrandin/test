@@ -1,1 +1,1 @@
-# test
+A repository for Git testing
